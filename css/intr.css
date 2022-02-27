@@ -1,0 +1,21 @@
+#intrPic {
+	position: absolute;
+}
+
+#intrTop {
+	width: 100%;
+	height: 50%;
+	position: absolute;
+	left: 0;
+	cursor: pointer;
+	top: 0;
+}
+
+#intrBottom {
+	width: 100%;
+	height: 50%;
+	position: absolute;
+	left: 0;
+	cursor: pointer;
+	bottom: 0;
+}
