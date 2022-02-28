@@ -1,2 +1,2 @@
 # curriculum-design
-个人测试使用
+本地打开home文件夹中的home.html
